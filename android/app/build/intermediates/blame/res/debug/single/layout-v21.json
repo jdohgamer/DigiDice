@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
