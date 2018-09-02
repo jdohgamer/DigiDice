@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/jarredd/.android/build-cache/d0ef80b4e4f52dff0dfc29459b507c94db6c2eaa/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/jarredd/.android/build-cache/d0ef80b4e4f52dff0dfc29459b507c94db6c2eaa/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jarredd/.android/build-cache/655c146109017bbbcc0acc9419584539e923ea82/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jarredd/.android/build-cache/973ce50e356e4dd8e6738a26227e711355035469/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jarredd/.android/build-cache/705ca1c34291f6aa1490933d43a4fa995b0ecdca/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jarredd/.android/build-cache/978a495f25f28331bde9fc8f00002402a701fc2c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/4727679fc09c82aa90e785d14ff281aac7791de6/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/39bdb12dce39188ec0226cb72270824162dded75/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jarredd/.android/build-cache/445829ab5b201bf14195474a7213cf56e3b290fd/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jarredd/.android/build-cache/3b5a6723172cc8b7cb075aafa136d68fc69a32e8/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/jarredd/.android/build-cache/8e9e4f49259f3892a7a4731fb91bd35a7e13d822/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/jarredd/.android/build-cache/3742ea1a528992f1520b5105c08acf37999777c6/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.digidice.MainActivity
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/jarredd/.android/build-cache/d0ef80b4e4f52dff0dfc29459b507c94db6c2eaa/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jarredd/.android/build-cache/655c146109017bbbcc0acc9419584539e923ea82/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jarredd/.android/build-cache/973ce50e356e4dd8e6738a26227e711355035469/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jarredd/.android/build-cache/705ca1c34291f6aa1490933d43a4fa995b0ecdca/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jarredd/.android/build-cache/978a495f25f28331bde9fc8f00002402a701fc2c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/4727679fc09c82aa90e785d14ff281aac7791de6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/39bdb12dce39188ec0226cb72270824162dded75/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jarredd/.android/build-cache/445829ab5b201bf14195474a7213cf56e3b290fd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jarredd/.android/build-cache/3b5a6723172cc8b7cb075aafa136d68fc69a32e8/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/jarredd/.android/build-cache/10161aa9e3dab9fda2f2a5d4a30af3b2d3105d5e/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/jarredd/.android/build-cache/a88a0060aa03064987297af5182c245c3f85633c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/jarredd/.android/build-cache/d1f7a9d69f37769a9dc7d145014b56ea938aa77e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/jarredd/.android/build-cache/d72c800c22cbd8f2018abf288b0e4d7adda2da0d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/jarredd/.android/build-cache/37096abf9a72f0f01467d0396e88a5d0407b2f77/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/jarredd/.android/build-cache/eec3943854bd470be53f98bc8dcafe533c3b63e5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/jarredd/.android/build-cache/c9c8642c3b3ed03b6aa48fcc98ce6ff64432bae9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/jarredd/.android/build-cache/8e9e4f49259f3892a7a4731fb91bd35a7e13d822/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jarredd/.android/build-cache/655c146109017bbbcc0acc9419584539e923ea82/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jarredd/.android/build-cache/973ce50e356e4dd8e6738a26227e711355035469/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jarredd/.android/build-cache/705ca1c34291f6aa1490933d43a4fa995b0ecdca/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jarredd/.android/build-cache/978a495f25f28331bde9fc8f00002402a701fc2c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/4727679fc09c82aa90e785d14ff281aac7791de6/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jarredd/.android/build-cache/39bdb12dce39188ec0226cb72270824162dded75/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jarredd/.android/build-cache/445829ab5b201bf14195474a7213cf56e3b290fd/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jarredd/.android/build-cache/27d987772c469e9ce960ddea8cd05e4f5a0fc3f8/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jarredd/.android/build-cache/3b5a6723172cc8b7cb075aafa136d68fc69a32e8/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jarredd/.android/build-cache/3b5a6723172cc8b7cb075aafa136d68fc69a32e8/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jarredd/.android/build-cache/3b5a6723172cc8b7cb075aafa136d68fc69a32e8/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/jarredd/dev/DigiDice/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

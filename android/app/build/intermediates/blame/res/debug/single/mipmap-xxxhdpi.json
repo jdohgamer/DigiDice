@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/jarredd/dev/DigiDice/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jarredd/dev/DigiDice/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
