@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/jdoh/Desktop/Dev/digidice/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/jdoh/Desktop/Dev/digidice/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
         "source": "/Users/jarredd/dev/DigiDice/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jdoh/Desktop/Dev/digidice/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/jdoh/Desktop/Dev/digidice/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",

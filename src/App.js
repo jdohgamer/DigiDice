@@ -5,14 +5,22 @@
 
 import React, {Component} from 'react';
 import {StyleSheet, Text, View, Button, Image, Animated} from 'react-native';
+import Draggable from './components/Draggable.js'
 
 
 class FadeInView extends React.Component {
   state = {
-    fadeAnim: new Animated.Value(0),  // Initial value for opacity: 0
+    fadeAnim: new Animated.Value(0),
+      // Initial value for opacity: 0
   }
 
   componentDidMount() {
+  
+ 
+
+
+
+
     Animated.timing(                  // Animate over time
       this.state.fadeAnim,            // The animated value to drive
       {
@@ -50,8 +58,11 @@ export default class App extends Component {
     this.state = { 
       result: 0,
       selectedColor: 'white',
+      spinValue: new Animated.Value(0)
     };
   }
+
+  
 
   roll() {
 
@@ -73,7 +84,7 @@ export default class App extends Component {
         <FadeInView>
           <Image 
             style={{ height: 200, width: 200}}
-            source={require('./d20.png')} 
+            source={require('./assets/d20.png')} 
           />
         </FadeInView>
 
@@ -84,6 +95,8 @@ export default class App extends Component {
           title="Do a Barrel Roll!"
           color="#841584" 
         />
+
+        <Draggable />
       </View>
     );
   }

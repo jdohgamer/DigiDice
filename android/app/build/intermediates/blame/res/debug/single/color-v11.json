@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/jdoh/Desktop/Dev/digidice/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jdoh/.android/build-cache/d7d69ba8d7da9aa986549f1a6f749d9bc8a4b9ad/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jdoh/Desktop/Dev/digidice/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jdoh/.android/build-cache/d7d69ba8d7da9aa986549f1a6f749d9bc8a4b9ad/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/jarredd/.android/build-cache/9c49aec66f2558e8a249bc4ab65c49ed7c3121bf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },

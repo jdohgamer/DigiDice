@@ -2,5 +2,9 @@
     {
         "merged": "/Users/jarredd/dev/DigiDice/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/jarredd/.android/build-cache/d0ef80b4e4f52dff0dfc29459b507c94db6c2eaa/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/jdoh/Desktop/Dev/digidice/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jdoh/.android/build-cache/c8716f088aea340d599f61b0c4dff9753828079c/output/res/xml/preferences.xml"
     }
 ]
